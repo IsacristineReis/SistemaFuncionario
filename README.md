@@ -1,7 +1,6 @@
 # Sistema de Funcionários
-# 
 
-<img src="./assest/Captura.png">
+<img src="./assets/Captura.png">
 
 
 ## 📝 Descrição
